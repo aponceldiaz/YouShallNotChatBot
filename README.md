@@ -1,0 +1,1 @@
+This is a telegram bot that let you restrict user permissions in a group not one by one but every member at the same time. 
